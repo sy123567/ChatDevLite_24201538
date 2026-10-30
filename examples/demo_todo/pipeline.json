@@ -1,0 +1,14 @@
+{
+  "task": "开发一个待办事项命令行工具",
+  "app_type": "todo",
+  "app_name": "待办事项命令行工具",
+  "files": [
+    "requirements.md",
+    "design.md",
+    "main.py",
+    "check.md",
+    "conversation.md",
+    "pipeline.json"
+  ],
+  "check_passed": true
+}
